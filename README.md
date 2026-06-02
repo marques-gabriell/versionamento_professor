@@ -1,2 +1,3 @@
 # primeiro-versionamento
-A primeira aula de versionamento com Portugol Studio no SENAI, Curso de Dev Java.
+Essa é a minha primeira modificação de arquivo.
+Vou fazer um Commit.
